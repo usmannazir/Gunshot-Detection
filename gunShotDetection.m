@@ -10,7 +10,7 @@
 %% 2) False Positive   Y=1|X=0
 % Given
 
-PX1=0.05;    % Prob(X=1)=0.1
+PX1=0.05;    % Prob(X=1)=0.05
 PY0_X1=0.01;    %Prob(Y=0|X=1)=0.01 % Prob. of Missed Detection
 PY1_X0=0.1;     %Prob(Y=1|X=0)=0.1  % Prob. of False Positive
 
